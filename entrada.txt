@@ -1,0 +1,5 @@
+true,250,Heineken,Cerveja Latao,25.99,873848
+false,50,Reservado,Vinho tinto,99.99,456879
+true,200,Absolut,Vodka,25.99,873877
+true,350,Brahma,Cerveja,5.99,785256
+false,750,51,Cachaca,15.99,789852

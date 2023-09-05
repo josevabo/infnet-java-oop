@@ -1,0 +1,6 @@
+Lista de bebidas obtidas no arquivo de entrada entrada:
+Esta bebida do tamanho 250.000L está gelada, e é da marca Heineken
+Esta bebida do tamanho 50.000L  não está gelada, e é da marca Reservado
+Esta bebida do tamanho 200.000L está gelada, e é da marca Absolut
+Esta bebida do tamanho 350.000L está gelada, e é da marca Brahma
+Esta bebida do tamanho 750.000L  não está gelada, e é da marca 51
